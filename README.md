@@ -1,4 +1,4 @@
-### Oi, meu nome é Guilherme Ferraresi e sou um estudande do segundo ano do ensino médio integrado ao técnico em desenvolvimento de sistemas, e pretendo trabalhar na área DEV algum dia.
+### Oi, meu nome é Guilherme Ferraresi e sou um estudande do terceiro ano do ensino médio integrado ao técnico em desenvolvimento de sistemas, e pretendo trabalhar na área DEV algum dia.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuizinSX7&layout=compact&size_weight=0.5&theme=dracula)
 
